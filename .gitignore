@@ -187,3 +187,7 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+Example/CalendarDemo/CalendarDemo\.Droid/Resources/Resource\.Designer\.cs
+
+XamForms\.Controls\.Calendar\.Droid/Resources/Resource\.Designer\.cs
